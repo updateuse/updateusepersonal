@@ -17,7 +17,7 @@
       "updates": [
         {
           "version": "3.0.9",
-          "update_link": "https://gitee.com/MuiseDestiny/plugins/raw/master/zotero-gpt.xpi",
+          "update_link": "https://github.com/updateuse/updateusepersonal/blob/main/gupdate.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"
@@ -42,3 +42,4 @@
   }
 
 }
+
