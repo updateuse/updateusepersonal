@@ -17,7 +17,7 @@
       "updates": [
         {
           "version": "3.0.9",
-          "update_link": "https://github.com/updateuse/updateusepersonal/main/gupdate.xpi",
+          "update_link": "https://raw.githubusercontent.com/updateuse/updateusepersonal/main/gupdate.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"
@@ -42,5 +42,6 @@
   }
 
 }
+
 
 
