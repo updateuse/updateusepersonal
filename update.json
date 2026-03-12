@@ -1,10 +1,10 @@
 {
   "addons": {
-    "zoterostyle@polygon.org": {
+    "s@update.orgg": {
       "updates": [
         {
           "version": "5.9.9",
-          "update_link": "https://gitee.com/MuiseDestiny/plugins/raw/master/zotero-style.xpi",
+          "update_link": "https://raw.githubusercontent.com/updateuse/updateusepersonal/main/supdate.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"
@@ -26,11 +26,24 @@
         }
       ]
     },
-    "zoteroreference@polygon.org": {
+    "r@update.org": {
       "updates": [
         {
           "version": "1.7.1",
-          "update_link": "https://gitee.com/MuiseDestiny/plugins/raw/master/zotero-reference.xpi",
+          "update_link": "https://raw.githubusercontent.com/updateuse/updateusepersonal/main/rupdate.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999"
+            }
+          }
+        }
+      ]
+    },
+    "m@update.org": {
+      "updates": [
+        {
+          "version": "2.4.3",
+          "update_link": "https://raw.githubusercontent.com/updateuse/updateusepersonal/main/mupdate.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"
@@ -42,6 +55,7 @@
   }
 
 }
+
 
 
 
