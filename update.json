@@ -1,6 +1,6 @@
 {
   "addons": {
-    "s@update.org": {
+    "zoterostyle@polygon.org": {
       "updates": [
         {
           "version": "6.0.2",
@@ -13,7 +13,7 @@
         }
       ]
     },
-    "g@update.org": {
+    "zoterogpt@polygon.org": {
       "updates": [
         {
           "version": "3.1.2",
@@ -26,7 +26,7 @@
         }
       ]
     },
-    "r@update.org": {
+    "zoteroreference@polygon.org": {
       "updates": [
         {
           "version": "1.7.2",
@@ -39,7 +39,7 @@
         }
       ]
     },
-    "m@update.org": {
+    "zoteromagic@zoterocn.com": {
       "updates": [
         {
           "version": "2.5.2",
