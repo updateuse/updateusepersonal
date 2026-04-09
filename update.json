@@ -3,7 +3,7 @@
     "s@update.orgg": {
       "updates": [
         {
-          "version": "5.9.9",
+          "version": "6.0.2",
           "update_link": "https://raw.githubusercontent.com/updateuse/updateusepersonal/main/supdate.xpi",
           "applications": {
             "zotero": {
@@ -16,7 +16,7 @@
     "g@update.org": {
       "updates": [
         {
-          "version": "3.0.9",
+          "version": "3.1.2",
           "update_link": "https://raw.githubusercontent.com/updateuse/updateusepersonal/main/gupdate.xpi",
           "applications": {
             "zotero": {
@@ -29,7 +29,7 @@
     "r@update.org": {
       "updates": [
         {
-          "version": "1.7.1",
+          "version": "1.7.2",
           "update_link": "https://raw.githubusercontent.com/updateuse/updateusepersonal/main/rupdate.xpi",
           "applications": {
             "zotero": {
@@ -42,7 +42,7 @@
     "m@update.org": {
       "updates": [
         {
-          "version": "2.4.3",
+          "version": "2.5.2",
           "update_link": "https://raw.githubusercontent.com/updateuse/updateusepersonal/main/mupdate.xpi",
           "applications": {
             "zotero": {
